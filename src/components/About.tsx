@@ -78,7 +78,7 @@ const About: React.FC = () => {
                 <div className="text-6xl mb-4">🤖</div>
                 <h3 className="text-2xl font-bold mb-4">Fun Fact</h3>
                 <p className="text-lg leading-relaxed">
-                  "I can debug YOLOv8 while writing Tamil poetry."
+                  "I don’t just do projects for grades, I do them to launch."
                 </p>
                 <div className="absolute top-4 right-4">
                   <motion.div
